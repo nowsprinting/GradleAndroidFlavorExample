@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GradleAndroidFlavorExample.iml" filepath="$PROJECT_DIR$/GradleAndroidFlavorExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/GradleAndroidFlavorExample-GradleAndroidFlavorExample.iml" filepath="$PROJECT_DIR$/GradleAndroidFlavorExample-GradleAndroidFlavorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-switch-backport.iml" filepath="$PROJECT_DIR$/android-switch-backport.iml" />
     </modules>
   </component>
 </project>

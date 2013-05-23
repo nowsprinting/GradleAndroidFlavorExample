@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-switch-backport.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GradleAndroidFlavorExample/build/exploded-bundles/android-switch-backport.aar/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

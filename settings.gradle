@@ -1,1 +1,1 @@
-include ':GradleAndroidFlavorExample'
+include ':GradleAndroidFlavorExample', ':libraries:android-switch-backport'
