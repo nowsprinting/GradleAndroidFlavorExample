@@ -21,4 +21,15 @@ android {
         minSdkVersion 8
         targetSdkVersion 16
     }
+
+    productFlavors {
+        squid {
+            packageName "com.nowsprinting.gradleandroidflavorexample.squid"
+
+        }
+        cuttlefish {
+            packageName "com.nowsprinting.gradleandroidflavorexample.cuttlefish"
+
+        }
+    }
 }
