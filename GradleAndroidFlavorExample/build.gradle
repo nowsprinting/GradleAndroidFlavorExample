@@ -6,21 +6,21 @@ dependencies {
 }
 
 android {
-    compileSdkVersion 17
-    buildToolsVersion "17.0.0"
+    compileSdkVersion 19
+    buildToolsVersion "19.1"
 
     defaultConfig {
         minSdkVersion 8
-        targetSdkVersion 16
+        targetSdkVersion 19
     }
 
     productFlavors {
         squid {
-            packageName "com.nowsprinting.gradleandroidflavorexample.squid"
+            applicationId "com.nowsprinting.gradleandroidflavorexample.squid"
 
         }
         cuttlefish {
-            packageName "com.nowsprinting.gradleandroidflavorexample.cuttlefish"
+            applicationId "com.nowsprinting.gradleandroidflavorexample.cuttlefish"
 
         }
     }
