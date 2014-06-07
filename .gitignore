@@ -28,6 +28,13 @@ build/
 gradle.properties
 
 #for IntelliJ IDEA
-.idea/workspace.xml
-.idea/tasks.xml
-
+!.idea/runConfigurations/*
+.idea/*.xml
+.idea/.name
+.idea/copyright/
+.idea/libraries/
+.idea/scopes/
+.idea/inspectionProfiles/
+*.iml
+*.ipr
+*.iws
