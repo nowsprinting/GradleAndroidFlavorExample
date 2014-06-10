@@ -36,5 +36,3 @@ gradle.properties
 .idea/scopes/
 .idea/inspectionProfiles/
 *.iml
-*.ipr
-*.iws
